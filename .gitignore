@@ -1,0 +1,42 @@
+/intro_service/application/language_services/chatglm/chatglm.config
+/intro_service/application/language_services/openai_api/intro_openai.config
+
+# ------------------------
+# PyCharm / JetBrains IDE
+# ------------------------
+.idea/
+*.iml
+
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ------------------------
+# Logs / temp files
+# ------------------------
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ------------------------
+# Jupyter Notebook
+# ------------------------
+.ipynb_checkpoints/
+*.ipynb_convert/

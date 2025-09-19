@@ -1,0 +1,4 @@
+transformers==4.32.1
+zhipuai==2.0.1
+openai==1.12.0
+tiktoken==0.6.0
